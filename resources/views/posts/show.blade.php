@@ -5,6 +5,7 @@
         <div class="card-header">
             <h2>Laravel Blog</h2>
         </div>
+        <h2>hello</h2>
         <div class="card-body">
             <div class="row">
                 <div class="col-lg-12 mt-1 mr-1">
